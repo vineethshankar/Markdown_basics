@@ -9,6 +9,13 @@ I am learning Git markdown.
 
 //This is verbatim. Code blocks can be entered with backticks
 
+//```python
+
+//code
+
+//```
+
 ```python
 print "hello world"
 ```
+
