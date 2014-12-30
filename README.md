@@ -28,4 +28,5 @@ Bold is done with double **asterisks** or double __underscores__.
 1. Item 1
 2. Item 2
 3. Item 3
-   sublist
+  1. Indenting list by two spaces gives sublist
+  2. sublist item
