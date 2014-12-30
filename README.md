@@ -5,7 +5,7 @@ Markdown_basics
 I am learning Git markdown.
 
 //[Here is the cheat sheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [Here is the cheat sheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-//## This is verbatim
-//<verbatim text here>
+//This is verbatim
