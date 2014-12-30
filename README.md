@@ -19,3 +19,5 @@ I am learning Git markdown.
 print "hello world"
 ```
 
+> Blockquotes is a cool feature. Can be used to add descriptions or 
+> repeat text from emails.
