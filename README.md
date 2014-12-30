@@ -31,7 +31,7 @@ Bold is done with double **asterisks** or double __underscores__.
   1. Indenting list by two spaces gives sublist
   2. sublist item
 
-Now an unordered list
+Now an unordered list (use * instead of numbers)
 * item 1
 * item 2
   * subitem 1
