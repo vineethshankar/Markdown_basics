@@ -24,3 +24,8 @@ print "hello world"
 
 Italics is done with *asterisks* or _underscores_.
 Bold is done with double **asterisks** or double __underscores__.
+
+1. Item 1
+2. Item 2
+3. Item 3
+   sublist
