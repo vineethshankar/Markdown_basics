@@ -11,7 +11,7 @@ I am learning Git markdown.
 
 //```python
 
-//code
+//print "hello world"
 
 //```
 
