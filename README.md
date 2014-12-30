@@ -21,3 +21,6 @@ print "hello world"
 
 > Blockquotes is a cool feature. Can be used to add descriptions or 
 > repeat text from emails.
+
+Italics is done with *asterisks* or _underscores_.
+Bold is done with double **asterisks** or double __underscores__.
