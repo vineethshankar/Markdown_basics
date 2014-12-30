@@ -30,3 +30,10 @@ Bold is done with double **asterisks** or double __underscores__.
 3. Item 3
   1. Indenting list by two spaces gives sublist
   2. sublist item
+
+Now an unordered list
+* item 1
+* item 2
+  * subitem 1
+  * subitem 2
+
